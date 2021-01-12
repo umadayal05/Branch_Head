@@ -1,2 +1,2 @@
-Hello world
-i am feature branch
+echo "Hello world"
+echo "i am feature branch"
